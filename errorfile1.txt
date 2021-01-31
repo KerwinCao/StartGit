@@ -1,1 +1,3 @@
 aasdsfa
+
+ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=639b6340ae419cee7160&state=783e3d20-e61c-45e8-aa07-c4ee964f73b4 
