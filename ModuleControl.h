@@ -1,0 +1,4 @@
+#ifndef MODULE_CONTROL_H
+#define MODULE_CONTROL_H
+
+#endif // !MODULE_CONTROL_H
